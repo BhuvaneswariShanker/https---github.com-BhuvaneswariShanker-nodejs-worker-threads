@@ -1,0 +1,26 @@
+{
+  "name": "workerthreads",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhuvaneswariShanker/nodejs-worker-threads.git"
+  },
+  "keywords": [
+    "nodejs",
+    "workerthreads"
+  ],
+  "author": "Bhuvaneswari Shanker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhuvaneswariShanker/nodejs-worker-threads/issues"
+  },
+  "homepage": "https://github.com/BhuvaneswariShanker/nodejs-worker-threads#readme",
+  "description": "",
+  "dependencies": {
+    "worker-thread": "^1.1.0"
+  }
+}
