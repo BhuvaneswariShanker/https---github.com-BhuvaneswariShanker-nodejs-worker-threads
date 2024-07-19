@@ -9,3 +9,8 @@ Worker threads are useful for performing CPU-intensive JavaScript operations, bu
  Create two files named worker.js and index.js in your Node.Js project.
 
  Or Copy the files from this repository.
+
+## Run the index.js file
+
+Run index.js file it will ask for a prompt , where we can give any number for which factorial calculation is performed by worker threads and result is published to main index.js thread at the end.
+
